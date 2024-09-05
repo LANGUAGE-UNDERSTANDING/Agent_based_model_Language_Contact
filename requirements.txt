@@ -1,4 +1,4 @@
-mesa
+mesa==v3.0.0a1
 seaborn
 numpy
 pandas
